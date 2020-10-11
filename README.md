@@ -9,7 +9,7 @@ In this project, you will analyze TMDB dataset dataset and then communicate our 
 
 ### Dataset
 
-in this project, we used a dataset called TMDB movies dataset taken from Kaggle. For more information about this dataset you see the link below. 
+in this project, we used a dataset called TMDB movies dataset taken from Kaggle. The dataset contains almost 5k movies data samples with 20 features. For more information about this dataset you see the link below. 
 
 https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
