@@ -1,7 +1,7 @@
 # Udacity_DAND_project2_investigate_movies_dataset
 In this project, we will explore TMDB dataset to extract useful insights about movies' trends. 
 
-<img src="turtleneck-sweater.jpeg" />
+<img src="mothers-day-movies-1583531470.jpg" />
 
 ### Project Overview
 In this project, you will analyze TMDB dataset dataset and then communicate our findings about it.
